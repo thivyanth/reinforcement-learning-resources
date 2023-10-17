@@ -1,6 +1,6 @@
 # Reinforcement Learning Resources
 A curated list of awesome reinforcement courses, video lectures, books, library and many more.
-[original](**https://github.com/Duane321/reinforcement-learning-resources**)
+[original](https://github.com/Duane321/reinforcement-learning-resources)
 ## Table of Contents
 * **[Free Books](#free-books)**
 
